@@ -1,2 +1,3 @@
-Hello Mahendra 
-this is the your first docker file.
+print("Hello Mahendra") 
+
+print("this is the your first docker file")
