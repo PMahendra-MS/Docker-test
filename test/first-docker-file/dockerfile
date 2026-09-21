@@ -7,6 +7,6 @@ copy . /app
 
 RUN apt-get update & apt-get install -y python3 python-pip
 
-EVN NAME World 
+ENV NAME World 
 
 CMD ["python3", "app.py"]
